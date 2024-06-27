@@ -25,14 +25,12 @@ nonlinear learning results.
 2)  The complexity of that systems model of the world: Given the energetic costs of maintaining (and/or updating) a model, a system's model should be "simple enough but no simpler" to regulate the system and describe (enough) of it's world
  
 
-### Theoretical/Mechanical solve, and additional constraints/observationns
+### Theoretical/Mechanical solve, and additional constraints + observationns
 3)  The combination of 1 and 2 can be formally addressed by tools like Occam's Razor,  PAC learning Bayesian inference,  (Jaynes, Ortega and Braun) -(Solomonoff's optimal inductive inference combines both, Hutter and Schmidhuber do fun stuff with minimimum descriptionn lengths and universal distributions:  Friston et al's free energy principal formalizes things nicely).
-
-4). In the search for a "simple but effective" model, any locally adaptive (self organizing) system must necessarily compress "sense" data into simpler constructs.   That is, reduce (local) entropy-
-    both in Shanon's information theoretic sense, but also in a physical sense of doing-work-to-maintain-a-far-from-equilibrium state (laplacian demons, bennnett's computational depth, Prigogine, see also Sengupta's 2012ish experimental work).
-    We can think of this process as seperating a "useful" (entity-preserving-in-some-way) signal from associated environmental noise (not-worth-encoding/acting-upon).
+4). In the search for a "simple but effective" model, any locally adaptive (self organizing) system must necessarily compress "sense" data into simpler constructs.   That is, reduce (local) entropy- both in Shanon's information theoretic sense, but also in a physical sense of doing-work-to-maintain-a-far-from-equilibrium state (laplacian demons, bennnett's computational depth, Prigogine, see also Sengupta's 2012ish experimental work).
+ We can think of this process as seperating a "useful" (entity-preserving-in-some-way) signal from associated environmental noise (not-worth-encoding/acting-upon).
 5).  Such models are (very likely) (at least implicitly) hierarchical.  (If for no other reason than the need to capture at least 2 or 3 layers of hierarchically organized time-scales:
-    1.  The short-order time scale at which the system "observes" it's environment/ "external things happen".  2.  The time scale of a single perception->-action loop and 3. the timescale for encoding the results of multiple perception/action loops)*.
+    1.  The short-order time scale at which the system "observes" it's environment/ "external things happen".  2.  The time scale of a single perception->-action loop and 3. the timescale for encoding the results of multiple perception/action loops).
 
 
 ### Claim 2
