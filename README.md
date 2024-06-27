@@ -32,10 +32,11 @@ nonlinear learning results.
  We can think of this process as seperating a "useful" (entity-preserving-in-some-way) signal from associated environmental noise (not-worth-encoding or acting-upon).
 
 5)  Such models are (very likely) (at least implicitly) hierarchical.  (If for no other reason than the need to capture at least 2 or 3 layers of hierarchically organized time-scales:
-    i.  The short-order time scale at which the system "observes" it's environment/ "external things happen".
-    ii.  The time scale of a single perception->-action loop and
-    iii. the timescale for encoding the results of multiple perception/action loops.
-    iv. (Embodied+Enactive cognition folks may not agree with this language- feel free to thinkn of this as a [nested series of tensigrity structures](https://pubmed.ncbi.nlm.nih.gov/12615960/) creating [markov blankets](http://philsci-archive.pitt.edu/18831/), allowing for feedback loops)
+
+   * i.  The short-order time scale at which the system "observes" it's environment/ "external things happen".
+   * ii.  The time scale of a single perception->-action loop and
+   * iii. the timescale for encoding the results of multiple perception/action loops.
+   * iv. (Embodied+Enactive cognition folks may not agree with this language- feel free to thinkn of this as a [nested series of tensigrity structures](https://pubmed.ncbi.nlm.nih.gov/12615960/) creating [markov blankets](http://philsci-archive.pitt.edu/18831/), allowing for feedback loops)
 
 
 ### Claim 2
