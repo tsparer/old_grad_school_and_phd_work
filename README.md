@@ -3,9 +3,10 @@
 
 Background Below
 
-(Big question: what does an "optimally adaptive" system look-like- when the environment-to-be-adapted-to is unspecifiable*/constantly changing- 
+(Big question: what does an "optimally adaptive" system look-like- when the environment-to-be-adapted-to is unspecifiable and constantly changing- 
 and what can processes like creativity and human/animal learning tell us about those kind of adaptive systems?
-*(Big constraints: Problem of Induction (Hume), Underdetermination (Quine), Computational Complexity (np hardness of change- Kwisthout, Wareheim), Turing Decidability, Wolpert (no free lunnch, and his Godel-adjacent work) Frame Problem, etc.) )
+
+(Big constraints: Problem of Induction (Hume), Underdetermination (Quine), Computational Complexity (np hardness of change- Kwisthout, Wareheim), Turing Decidability, Wolpert (no free lunnch, and his Godel-adjacent work) Frame Problem, etc.) )
 
 # Background
 
