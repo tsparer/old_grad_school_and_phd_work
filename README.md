@@ -52,16 +52,12 @@ The research program for this work was as follows:
 1) masters: Use a suitably simple Bayesian-Free-energy model for reinforcement learning (Mathys's Hierarchical Gaussian Filter (HGF(- basically some really clever nested kalmann filters with coupled/variable learning rates) on a well established task (A Wisconsin Card Sort like reversal learning task) and A) test model fits, B) test if particular mathemetical parameters correspend to within-subjects-psychometric differences (e.g. hierchical coupling = cognitive flexibility/inhibition? learning rates relate to working memory)- (and maybe if ambitious also test physiological correlates of those between subjects differences + model parameter fit (e.g. eye blink rate and pupillometry)).
 (The paper entitled 1st year project, in this repo, gets at this)
 2) PhD - extend the self organization of insight work to a wider variety of insight tasks (the 9 Dot problem paper in this repo lays that out).
-3) Post Doc or other - Theoretical: explore the intersection betweenn the mutual information measures in Ulanowicz's degree of order work with behavioral correlates of creativity.  Factor analysis on a battery of cognitive flexibility tasks.  Possible Explorations of Michael Leyton's
+3) Post Doc or other - Theoretical: explore the intersection betweenn the mutual information measures in Ulanowicz's degree of order work with behavioral correlates of creativity.  Factor analysis on a battery of cognitive flexibility tasks.  Possible Explorations of Michael Leyton's Process Grammar/Generative theory of shape as a language-of-bayesian-thought?  Exploring Treves Latching networks from a bayesian control perspective?
 
 ### Unfortunately ....
 A faculty member who I had trusted to advise me, plagiarized my work (after discouraging several publications) and retaliated when I addressed the issue - (including engaging in behavoirs that threatened funding, and created barriers to IRB approval for experimental work). After some time of languishing in academic limbo, I left for the private sector.
 
 I still hack on this stuff in my free time, and am happy to collaborate with scholars or practitioners who want to reach out.  tim.sparer.professional@gmail.com
-(Note everything in this repo is original work from 2016 or earlier (with special thanks to Raphie Kaplan, Karl Friston, and Christoph Mathys for replies to emails regarding clarifications on model instantiations and free energy math, and massive thanks to Carlos Salas and Jared Ramsberg for experimental support)).  
+
+(Note: everything in this repo is original work from 2016 or earlier (with special thanks to Raphie Kaplan, Karl Friston, and Christoph Mathys for replies to emails regarding clarifications on model instantiations and free energy math, and massive thanks to Carlos Salas and Jared Ramsberg for experimental support)).  
 My guess is that some folks have picked this kind of thing up since then, and or/were working in parallel.  Maybe I'll do some google searches and throw up a post on developments since then?)
-
-
-
-    
-* (Enactive/Embodied cognitionn folks might not like that language: If you want to think of this in terms of nested tensigrity structures (https://pubmed.ncbi.nlm.nih.gov/12615960/), forming layers of markov blankets (http://philsci-archive.pitt.edu/18831/) with feedback systems, please do).
