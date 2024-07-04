@@ -29,7 +29,7 @@ nonlinear learning results.
 3)  The combination of 1 and 2 can be formally addressed by tools like Occam's Razor,  PAC learning Bayesian inference,  (Jaynes, Ortega and Braun) (Solomonoff's optimal inductive inference combines both, Hutter and Schmidhuber do fun stuff with minimimum descriptionn lengths and universal distributions:  Friston et al's free energy principal formalizes things nicely).
 
 4) _In the search for a "simple but effective" model, any locally adaptive (self organizing) **system must necessarily compress "sense" data into simpler constructs**._   That is, reduce (local) entropy- both in Shanon's information theoretic sense, but also in a physical sense of doing-work-to-maintain-a-far-from-equilibrium state (laplacian demons, bennnett's computational depth, Prigogine, see also Sengupta's 2012ish experimental work).
- _We can think of this process as seperating a "useful" (entity-preserving-in-some-way) **signal** from associated environmental **noise** (not-worth-encoding or acting-upon)_.
+ _We can think of this process as seperating a "useful" (entity-preserving-and/or-predictive-in-some-way) **signal** from associated environmental **noise** (not-worth-encoding or acting-upon)_.
 
 5)  Such models are (very likely) (at least implicitly) hierarchical.  (If for no other reason than the need to capture at least 2 or 3 layers of hierarchically organized time-scales:
 
