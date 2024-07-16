@@ -62,5 +62,5 @@ A faculty member who I had trusted to advise me, plagiarized my work (after disc
 
 I still hack on this stuff in my free time, and am happy to collaborate with scholars or practitioners who want to reach out.  tim.sparer.professional@gmail.com
 
-(Note: everything in this repo is original work from 2016 or earlier (with special thanks to Raphie Kaplan, Karl Friston, and Christoph Mathys for replies to emails regarding clarifications on model instantiations and free energy math, and massive thanks to Carlos Salas and Jared Ramsberg for experimental support)).  
+(Note: everything in this repo is original work from 2016 or earlier (with special thanks to Raphie Kaplan, Karl Friston, and Christoph Mathys for replies to emails regarding clarifications on model instantiations and free energy math, and massive thanks to Carlos Salas and Jared Ramsberg for experimental support, and Bill Lynch for encouraging chats)).  
 My guess is that some folks have picked this kind of thing up since then, and or/were working in parallel.  Maybe I'll do some google searches and throw up a post on developments since then?)
